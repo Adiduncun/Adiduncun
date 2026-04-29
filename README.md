@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># 🏄‍♂️ Morris M. Muthigani
+--># 🏄‍♂️ AdiDuncun
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+Software+Engineer;Laravel;DotNet;.NET;React.js;Angular.js;Java+Spring+Boot)](https://git.io/typing-svg)
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 #### “Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.”  Henry van Dyke
  
 
-I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I publish that content on my Blog channel "[https://kikimodev.com/]".
+I’m a tech-savvy analyst building my version of the digital world one step at a time. My projects are built from the ground up—starting with planning and design, through to implementation—solving real‑life problems with clean, scalable code. I’m also a renowned Agile Business Analyst, Product Manager/Owner, and Digital Transformation specialist, bringing a strong blend of hands‑on development expertise and deep analytical thinking to drive impactful, user‑centred digital solutions.
  
 ---
  
