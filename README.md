@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --># 🏄‍♂️ AdiDuncun
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+Software+Engineer;Laravel;DotNet;.NET;React.js;Angular.js;Java+Spring+Boot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=System-Business+Analyst;Process Analyst;Data Analysis;Laravel;Excel)](https://git.io/typing-svg)
 
 ### Hi there 👋
  
