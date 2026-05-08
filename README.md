@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+System Business Analyst| Business Change Management | Process Improvement | Tech-enabled Transformation
 <!--
 **Adiduncun/Adiduncun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
